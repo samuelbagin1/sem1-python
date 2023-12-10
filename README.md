@@ -1,2 +1,4 @@
 # sem1-python
-Code from semester 1 in python, Ludo game included
+
+The code from semester 1, the content is mainly in python. Contains scripts from seminars and a project game Ludo.
+adad

@@ -1,0 +1,10 @@
+def sach(n):
+    for i in range(n):
+        for p in range(n):
+            
+            if ((n//2-1==p or n//2+1==p) and (i<n//2 or i>n//2)) or ((n//2-1==i or n//2+1==i) and (p<n//2 or p>n//2)) or (n//2==i and (p==0 or p==n-1)) or (n//2==p and (i==n-1 or i==0)):
+                print('* ', end=' ')
+            else:
+                print(' ', end=' ')
+
+                dsfsdfds
